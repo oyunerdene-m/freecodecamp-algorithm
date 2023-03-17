@@ -14,5 +14,5 @@ function sym(args) {
 	}
 	return res;
 }
-
+////NOT SOLVED!!!!
 console.log(sym([1, 2, 3], [5, 2, 1, 4]));
